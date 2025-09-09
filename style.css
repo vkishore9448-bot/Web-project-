@@ -1,0 +1,231 @@
+<style>
+     .head {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 35px;
+            color: rgba(241, 240, 124, 0.938);
+            font-style: oblique;
+            background-attachment: fixed;
+            border:1px solid white;
+            margin: 15px  0px 50px;
+           
+            background-color: rgb(18, 149, 158);
+            
+     }
+        .about-right {
+            position:absolute;
+            z-index: 2;
+            padding: 0px;
+            right: 150px;
+            color:rgb(218, 231, 30);
+            font-size: 18px;
+            margin: 0px;
+            top: 18px;
+            background-attachment: fixed;
+        }
+        .profile-right{
+                position:absolute;
+                z-index: 2;
+                padding: 0px;
+                right: 250px;
+            color:rgb(213, 235, 23);
+            font-size: 18px;
+            margin: 0px;
+            top: 18px;
+            background-attachment: fixed;
+        }
+        .home-right{
+              position:absolute;
+                z-index: 2;
+                padding: 0px;
+                right: 350px;
+            color:rgb(218, 231, 30);
+            font-size: 18px;
+            margin: 0px;
+            top: 18px;
+            background-attachment: fixed;
+        }
+        .contact{
+            position:absolute;
+                z-index: 2;
+                padding: 0px;
+                right: 40px;
+            color:rgb(229, 233, 33);
+            font-size: 18px;
+            margin: 0px;
+            top: 18px;
+            background-attachment: fixed;
+        }
+        
+</style>
+<style>
+    .hellostyle{
+        position: relative;
+        z-index: 4px;
+       text-align:center;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       border:1px solid rgb(88, 233, 209);
+       padding: 100px;
+       margin: 0%;
+        background-color: rgb(50, 233, 218);
+        white-space: nowrap;
+        height: 350px;
+        bottom: 53px;
+       
+    }
+    .para{
+        color: white;
+        text-align:unset;
+        
+        
+    }
+    .work{
+       
+        position: absolute;
+        z-index: 4px;
+        left: 580px;
+        bottom:100px;
+        text-align: center;
+        border:1px solid white;
+        background-color: white;
+        padding: 10px;
+       width: 150px;
+       border-radius: 2px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+</style>
+<style>
+    .image{
+       display: flex;
+       justify-content: center;
+      
+
+    }
+   
+    
+</style>
+<style>
+ .student{
+        text-align: center;
+        padding: 5px;
+        bottom: -380px;
+    }
+</style>
+<style>
+    .project{
+        display: flex;
+        position:relative;
+        z-index: 4px;
+       text-align:center;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       border:1px solid rgb(219, 211, 211);
+       padding: 100px;
+       margin: 0%;
+        background-color: rgb(219, 207, 207);
+        white-space: nowrap;
+        height: 350px;
+        bottom: -5px;
+        
+
+    }
+    .project1{
+        position: absolute;
+        z-index: 4px;
+        top: 30px;
+        right: 590px;
+    }
+    .pro1{
+        position: absolute;
+        z-index: 4px;
+            margin: 20px;
+            padding: 10px;
+            box-sizing: 30px;
+            border: 23px;
+            border-radius:5px ;
+            
+            font-size: 15px;
+          width: 280px;
+          box-shadow: #020c0a;
+        bottom: 260px;
+          text-align: center;
+           background-color:#ccc;
+
+    }
+    .pro2{
+         position: absolute;
+        z-index: 4px;
+            margin: 20px;
+            padding: 10px;
+            box-sizing: 30px;
+            border: 23px;
+            border-radius:5px ;
+            left: 500px;
+            font-size: 15px;
+          width: 280px;
+          box-shadow: #020c0a;
+        bottom: 260px;
+          text-align: center;
+           background-color:#ccc;
+
+    }
+    .pro3
+    {
+        position: absolute;
+        z-index: 4px;
+            margin: 20px;
+            padding: 10px;
+            box-sizing: 30px;
+            border: 23px;
+            border-radius:5px ;
+            left: 900px;
+            font-size: 15px;
+          width: 280px;
+          box-shadow: #020c0a;
+        bottom: 260px;
+          text-align: center;
+           background-color:#ccc;
+
+    }
+</style>
+<style>
+    .contact2{
+         position: absolute;
+        z-index: 4px;
+       text-align:center;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       border:1px solid rgb(255, 254, 254);
+       padding: 10px;
+       margin:10px;
+        background-color: rgb(255, 254, 254);
+        white-space: nowrap;
+        height: 350px;
+       width: 1500px;
+       right: -100px;
+       top: 1420px;
+    }
+</style>
+<style>
+     input[type="text"]
+     {
+        
+            color: #020101;
+            
+        }
+         input[type="submit"]{
+            position: absolute;
+            z-index: 4px;
+            width: 100px;
+            background-color: rgb(18, 127, 131);
+            color: white;
+            padding: 14px 20px;
+            border: none;
+            left: 750px;
+            cursor: pointer;
+            bottom: 70px;
+        }
+        input[type="submit"]:hover{
+            background-color: #ccc;
+
+        }
+</style>
